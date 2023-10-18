@@ -27,7 +27,6 @@ form{
 div{
     border: none;
     padding: 2rem 0;
-    /*border-bottom: 3px solid #3b3b4f;*/
 }
 
 input{
@@ -38,7 +37,7 @@ input{
     border:1px solid #0a0a23;
     color: #ffffff;
   }
-.inline {
+.alineado {
     width: unset;
     margin: 0 0.5em 0 0;
     vertical-align: middle;
@@ -53,6 +52,4 @@ input{
     border-color: white;
     min-width:300px;
   }
-input[type="file"]{
-    padding: 1px 2px;
-}
+
